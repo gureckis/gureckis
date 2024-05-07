@@ -1,4 +1,5 @@
 <p align="center">
+  <samp>👋 I'm a cognitive scientist @ nyu</samp><br>
   <samp>
     <a href="https://todd.gureckislab.org">me</a> .
     <a href="https://gureckislab.org/papers">papers</a> .
