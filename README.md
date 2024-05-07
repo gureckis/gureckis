@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+me * lab * projects * talks * tweets *
 <!--
 **gureckis/gureckis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
