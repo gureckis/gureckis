@@ -1,18 +1,12 @@
-### Hi there 👋
-
-
-me * lab * projects * talks * tweets *
-<!--
-**gureckis/gureckis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    <a href="https://todd.gureckislab.org">me</a> .
+    <a href="https://gureckislab.org/papers">papers</a> .
+    <a href="https://teaching.gureckislab.org">teaching</a> .
+    <a href="https://todd.gureckislab.org/writing">blog</a> .
+    <a href="https://todd.gureckislab.org/talks">talks</a> .
+    <a href="https://todd.gureckislab.org/videos">videos</a> .
+    <a href="https://gureckislab.org">lab</a> .
+    <a href="https://twitter.com/todd_gureckis">tweets</a> 
+  </samp>
+</p>
